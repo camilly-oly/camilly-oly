@@ -5,7 +5,7 @@
 Desenvolvimento **Web e Mobile**. Aplicando conceitos sólidos de engenharia para construir interfaces modernas, intuitivas, responsivas e inclusivas.🎯
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-oliveira-b180062b8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DB7093?)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-DB7093?style=for-the-badge=googlechrome)]()
 
 ---
 ### Tech Stack
